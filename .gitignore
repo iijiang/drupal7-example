@@ -1,3 +1,5 @@
+.DS_Store
+
 sites/*/settings.local.php
 
 # Ignore paths that contain user-generated content.
