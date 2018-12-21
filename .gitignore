@@ -1,5 +1,5 @@
 .DS_Store
-
+.idea/*
 sites/*/settings.local.php
 
 # Ignore paths that contain user-generated content.
